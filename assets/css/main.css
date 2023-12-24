@@ -2440,10 +2440,18 @@ input, select, textarea {
 		border: #000000;
 		border-radius: 10px;
 	}
-	#imgsow
+	#imgSow
 	{
 	   	max-height:50px;
 	   	max-width:50px;
 		border-radius: 50px;
 		
 	}
+	#imgDji
+	{
+	   	max-height:50px;
+	   	max-width:50px;
+		border-radius: 50px;
+		
+	}
+
