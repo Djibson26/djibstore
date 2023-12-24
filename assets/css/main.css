@@ -2440,3 +2440,10 @@ input, select, textarea {
 		border: #000000;
 		border-radius: 10px;
 	}
+	#imgsow
+	{
+	   	max-height:50px;
+	   	max-width:50px;
+		border-radius: 50px;
+		
+	}
